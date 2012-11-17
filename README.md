@@ -1,4 +1,12 @@
 vim_5min_presentation
 =====================
 
-Why should you use vim?
+# Why should you use vim?
+
+This was a lightning talk given @codebits ( http://codebits.eu ), I will be updating it with notes to give a little more insight into the vim features I describe here.
+
+## Quick Notes
+
+Vim is very friendly, if you need some help with any feature that want to explore, just type in NORMAL mode :help <name of feature>.
+
+If you're a total noob with vim, I'd recommend something like this: http://newbiedoc.sourceforge.net/text_editing/vim.html.en#TUTORME-VIM
