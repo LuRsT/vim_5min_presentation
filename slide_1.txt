@@ -1,6 +1,6 @@
 
          ____________________________________________________________
-         |           Why you should use vim?                        |
+         |           Why should you use vim?                        |
          |                                                          |
          |  $ whoami                                                |
          |  ├── Web Developer                                       |
