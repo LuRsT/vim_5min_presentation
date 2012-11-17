@@ -1,0 +1,20 @@
+# Macros
+
+## How?
+
+q[a-z] <- Starts recording a macro
+@[a-z] <- Executes macro
+
+## Examples
+
+These slides are:
+    slide_[1]
+    slide_[2]
+    slide_[3]
+    slide_[4]
+    slide_[5]
+    slide_[6]
+    slide_[7]
+    slide_[8]
+    slide_[9]
+    slide_[10]

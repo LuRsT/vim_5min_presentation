@@ -1,0 +1,9 @@
+# Abbreviate
+
+## How?
+
+:abbreviate what_is_written This is the real text
+
+## Examples
+
+soft_kitty

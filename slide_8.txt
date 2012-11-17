@@ -1,0 +1,11 @@
+# Bonus
+
+gUw <- Uppercases word
+guw <- Lowercases word
+Focus mode
+Vim runs commands
+
+
+select * FROM users WHERE id='';
+
+git status

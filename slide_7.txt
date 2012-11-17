@@ -1,0 +1,11 @@
+# Undo
+
+## How?
+
+u <- undoes last action
+:earlier 20s
+:later 20s
+
+## Examples
+
+I've written this a lot earlier

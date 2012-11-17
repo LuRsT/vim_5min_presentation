@@ -1,0 +1,129 @@
+# Marks
+
+## How?
+
+m[a-z] <- Set mark
+'[a-z] <- Go to mark
+
+Advanced Editing:
+d'[a-z] <- Deletes from cursor to mark ( no matter where we are )
+
+## Examples
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oh, hello there
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                        Over here buddy
+
+
+
+
+
+
+
+
+
+
+From this point forward, we have garbage
+Mark set here as 'c':
+asdjlakdslk sajdasj d
+sadsa s
+das dksajdl jasldjs ksja d
+sad jsad aslkdj alsjdlsaj 
+dsad 
+sadj sakd jasldj alsjdlsaj 
+jd 
+sdjsa ksajdl jdlasj dljsj lasjdl jasdj lajs
+d sa
+d aksdjl asjldjas djlsajd laskjd as
+d askdj lasjdl ajldjs 
+Mark set here as 'd'
+
+
+
+Mark set here as 'c':
+asdjlakdslk sajdasj d
+sadsa s
+das dksajdl jasldjs ksja d
+sad jsad aslkdj alsjdlsaj 
+dsad 
+sadj sakd jasldj alsjdlsaj 
+jd 
+sdjsa ksajdl jdlasj dljsj lasjdl jasdj lajs
+d sa
+d aksdjl asjldjas djlsajd laskjd as
+d askdj lasjdl ajldjs 
+Mark set here as 'd'
