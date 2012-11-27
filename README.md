@@ -10,3 +10,7 @@ This was a lightning talk given @codebits ( http://codebits.eu ), I will be upda
 Vim is very friendly, if you need some help with any feature that want to explore, just type in NORMAL mode :help <name of feature>.
 
 If you're a total noob with vim, I'd recommend something like this: http://newbiedoc.sourceforge.net/text_editing/vim.html.en#TUTORME-VIM
+
+## Video
+
+http://www.youtube.com/watch?v=AnYE-McpatU
