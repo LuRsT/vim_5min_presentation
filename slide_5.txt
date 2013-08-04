@@ -9,4 +9,4 @@ Vim can do a lot more completion like Filename completion too
 ## Examples
 
 function get_users_from_user_id_and_address()
-function get_users_from_user_id_and_tudo()
+function get_users_from_user_id_and_more_info()

@@ -9,14 +9,14 @@ also works with ', ", ( etc...
 
 ## Examples
 
-my %hash = {
-    'animals' => {
-        'elephant' => 'big',
-        'pig'      => 'doesn't sweat',
-        'horse'    => 'carries humans',
+var stuff = {
+    'animals': {
+        'elephant': 'big',
+        'pig'     : 'doesn\'t sweat',
+        'horse'   : 'carries humans',
     },
-    'plants'  => {
-        'rose' => 'spikey',
-        'tree' => 'delivers fruit, maybe...',
+    'plants': {
+        'rose': 'spikey',
+        'tree': 'gives us fruit, maybe...',
     },
 };
