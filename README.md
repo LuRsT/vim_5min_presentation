@@ -3,7 +3,7 @@ vim_5min_presentation
 
 # Why should you use vim?
 
-This was a lightning talk given @codebits ( http://codebits.eu ), I will be updating it with notes to give a little more insight into the vim features I describe here.
+This was a lightning talk given @codebits ( http://codebits.eu ) and @oxfordgeeks (http://oxford.geeknights.net/)i #32, I will be updating it with notes to give a little more insight into the vim features I described in the talk.
 
 ## Quick Notes
 
@@ -13,4 +13,4 @@ If you're a total noob with vim, I'd recommend something like this: http://newbi
 
 ## Video
 
-http://www.youtube.com/watch?v=AnYE-McpatU
+http://www.youtube.com/watch?v=AnYE-McpatU (@codebits) (Portuguese)
