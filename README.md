@@ -3,7 +3,7 @@ vim_5min_presentation
 
 # Why should you use vim?
 
-This was a lightning talk given @codebits ( http://codebits.eu ) and @oxfordgeeks ( http://oxford.geeknights.net/ ) #32.
+This was a lightning talk given @codebits ( http://codebits.eu ) and @oxfordgeeks ( http://oxford.geeknights.net/ogn32/ ) #32.
 
 I will be updating it with notes to give a little more insight into the vim features I described in the talk.
 
